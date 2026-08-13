@@ -103,8 +103,8 @@ The dashboard analyzes sales trends, profitability, regional performance, catego
     sales-performance-analysis
     ├── README.md
     ├── Sales Performance Analysis Dashboard.xlsx
-    └── Dashboard Preview.png
-
+    ├── Dashboard Preview.png
+    └── Raw Sales Data.xls
 ---
 
 ## 🔄 Project Workflow
